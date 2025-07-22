@@ -1,10 +1,14 @@
+<style>
+  
+
+</style>
 <div align="center">
   
 # deepface
 
 
 
-![Alt text](./deepface-icon-labeled.png)
+<img src="https://raw.githubusercontent.com/chungtran4078/sweet-moments-upload/refs/heads/main/deepface-icon-labeled.png" width="250" />
 
 </div>
 
