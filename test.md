@@ -1,7 +1,4 @@
-<style>
-  
 
-</style>
 <div align="center">
   
 # deepface
